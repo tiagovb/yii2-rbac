@@ -43,7 +43,7 @@ return [
     'The item description (Optional).' => 'Descrição do item (Opcional).',
     'The name of the item.' => 'Nome do item.',
     'There is neither role nor permission with name "{0}"' => 'Não existe nem role nem permissão com o nome "{0}"',
-    'Update assignments' => 'Alterações realizadas',
+    'Update assignments' => 'Alterar atribuições',
     'Update permission' => 'Alterar permissão',
     'Update role' => 'Alterar role',
     'Users' => 'Usuários',
